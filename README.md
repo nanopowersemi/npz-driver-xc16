@@ -1,2 +1,3 @@
-# npz-driver-xc16
-nPZero Gen1 project example for xc16 Microchip compiler
+# nPZero_xc16
+
+Project example for Microchip Compiler XC16
