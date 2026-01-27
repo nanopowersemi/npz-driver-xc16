@@ -1,0 +1,4 @@
+[submodule "nPZero_xc16.X/nPZero_driver"]
+	path = nPZero_xc16.X/nPZero_driver
+	url = https://gitea.nano.power/NP0_G0_EVB/nPZero_driver.git
+	branch = main_gen1
