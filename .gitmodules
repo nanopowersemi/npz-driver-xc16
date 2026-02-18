@@ -1,0 +1,3 @@
+[submodule "nPZero_xc16.X/nPZero_driver"]
+	path = nPZero_xc16.X/nPZero_driver
+	url = https://github.com/nanopowersemi/npz-driver.git
