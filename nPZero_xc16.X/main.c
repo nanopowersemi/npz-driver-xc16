@@ -276,8 +276,8 @@ int main(void)
     
     printf("nPZero-Gen1 PIC32MX TEST ");
     
-        // Initialize the npz interface
-    npz_hal_init();
+    // Initialize the npz interface
+    npz_init();
 
     __delay_ms(1);
 
@@ -286,7 +286,6 @@ int main(void)
 
     npz_read_status_registers(&npz_status);
 
-    npz_search();
 
     // Send the configuration to the device
     npz_device_configure(&npz_configuration);
